@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @valtooy
-- 👀 I’m interested in CYBER SECURITY
-- 🌱 I’m currently learning AI&DS
-- 💞️ I’m looking to collaborate on GOOGLE
-- 📫 How to reach me 9440336396
+https://github.com/ravichandrareddy2712-bit
 
 <!---
 valtooy/valtooy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
